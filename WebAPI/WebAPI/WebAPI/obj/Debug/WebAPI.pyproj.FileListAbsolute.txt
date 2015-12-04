@@ -1,0 +1,13 @@
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\obj\Debug\attach_server.py
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\obj\Debug\visualstudio_py_debugger.py
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\obj\Debug\visualstudio_py_repl.py
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\obj\Debug\visualstudio_py_util.py
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\obj\Debug\__init__.py
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\obj\Debug\__main__.py
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\bin\AzureSetup.cfg
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\bin\wfastcgi.py
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\obj\Debug\web.config
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\obj\Debug\web.debug.config

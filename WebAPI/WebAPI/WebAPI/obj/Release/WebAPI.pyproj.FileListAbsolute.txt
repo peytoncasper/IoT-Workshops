@@ -1,0 +1,9 @@
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\bin\AzureSetup.cfg
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\bin\wfastcgi.py
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\obj\Release\web.config
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\obj\Release\web.debug.config
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\obj\Release\deployment-updated-orig-prefix.txt
+C:\Users\vadla\Documents\GitHub\IoT-Workshops\WebAPI\WebAPI\WebAPI\ptvs_virtualenv_proxy.py
